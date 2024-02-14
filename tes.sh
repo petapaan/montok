@@ -4,5 +4,7 @@ wget https://raw.githubusercontent.com/AlawiStore24/domain/main/pointingtes.sh
 
 #pindah ke /usr/bin/
 mv pointingtes.sh /usr/bin/pointing
+cd /usr/bin/
 chmod +x pointing
+cd
 pointing
